@@ -32,7 +32,7 @@ bash run.sh
 ### Authors
 
  - [Tao Yu*](https://www.cs.cornell.edu/~tyu/), tyu@cs.cornell.edu
- - Toni J.B. Liu*, jl3499@cornell.edu
+ - [Toni J.B. Liu*](https://antonioliu97.github.io/About_Me.html), jl3499@cornell.edu
  - [Albert Tseng](https://tsengalb99.github.io), albert@cs.cornell.edu
  - [Christopher De Sa](https://www.cs.cornell.edu/~cdesa/), cdesa@cs.cornell.edu
 
